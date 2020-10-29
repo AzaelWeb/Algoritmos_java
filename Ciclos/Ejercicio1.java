@@ -3,7 +3,7 @@ import java.util.*;
 import javax.swing.*;
 /*Ejercicio 1:
  Programa que ordena alfabeticamente el nombre de frutas*/
-public class Ejercicio1 {
+public class Ejercicio1{
     public static void main(String[]args){
         ArrayList <String> frutas = new ArrayList<String>();
       
